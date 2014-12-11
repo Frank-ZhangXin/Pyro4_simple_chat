@@ -2,14 +2,16 @@
 ----
 
 ## About this project:
-* This program is a simple chat system based Python 2.7.x also with using Pyro4 RPC object.
+> This program is a simple chat system based Python 2.7.x also with using Pyro4 RPC object.
 * About : [Pyro4](https://pythonhosted.org/Pyro4/)
 * Also thanks to my professor [Dakai Zhu](http://www.cs.utsa.edu/~dzhu/) and co-author Che-wei Chen. 
+
 ----
 ## Instructions:
 1. Start the name server first. Single prompt window type: *'pyro4-ns'*.
 2. Run the chat server in another prompt window with command: *'python server.py'*.
 3. Begin the chat client. Open a new prompt window and type: *'python client.py'*.
+
 ----
 ## Chat system commands:
 1. *#help*:     list all the commands and explaination.
